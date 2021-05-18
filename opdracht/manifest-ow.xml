@@ -7,7 +7,7 @@
    	<WorkIDRegeling>/akn/nl/act/mnre1045/2021/N2000-001TBB/nld@2021-05-15;1</WorkIDRegeling>
    	<DoelID>/join/id/proces/mnre1153/2021/Instelling</DoelID>
 		<Bestand>
-      	<naam>owLocaties-N2000TBB.xml</naam>
+      	<naam>owLocaties-natura2000TBB.xml</naam>
          <objecttype>Gebied</objecttype>
       </Bestand>
 			<Bestand>
@@ -16,11 +16,11 @@
          <objecttype>RegelVoorIedereen</objecttype>
       </Bestand>
       <Bestand>
-      	<naam>owActiviteiten-Natura2000TBB.xml</naam>
+      	<naam>owActiviteiten-natura2000TBB.xml</naam>
          <objecttype>Activiteit</objecttype>
       </Bestand>
    	<Bestand>
-   		<naam>owRegelingsgebied.xml</naam>
+   		<naam>owRegelingsgebied-natura2000TBB.xml</naam>
    		<objecttype>Regelingsgebied</objecttype>
    	</Bestand>
    </Aanlevering>

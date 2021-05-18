@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.overheid.nl/2017/lvbb">
+
+	<bestand>
+		<bestandsnaam>aanlevering.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>GIO-N2000_duinen_goeree_aug_maart_wandelen2OW.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>GIO-N2000_duinen_goeree_jaarrondwandelen2.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>GIO-N2000_duinen_goeree_oppaden_wandelen2OW.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>GIO-N2000_duinen_goeree.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>manifest-ow.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>manifest.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>opdracht.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>owActiviteiten-Natura2000TBB.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>owLocaties-N2000TBB.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>owRegeltekst-natura2000TBB.xml</bestandsnaam>
+	<contentType>application/xml</contentType>
+	</bestand>
+	
+	<bestand>
+		<bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+		
+	<bestand>
+	<bestandsnaam>N2000_duinen_goeree_aug_maart_wandelen2OW.gml</bestandsnaam>
+	<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>	
+	<bestandsnaam>N2000_duinen_goeree_jaarrondwandelen2OW.gml</bestandsnaam>
+	<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>	
+	<bestandsnaam>N2000_duinen_goeree_oppaden_wandelen2OW.gml</bestandsnaam>
+	<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>	
+	<bestandsnaam>N2000_duinen_goereeOW.gml</bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+		</bestand>
+
+	<bestand>
+		<bestandsnaam>image1.png</bestandsnaam>
+		<contentType>img/png</contentType>
+	</bestand>
+			<bestand>
+				<bestandsnaam>image2.png</bestandsnaam>
+				<contentType>img/png</contentType>
+			</bestand>
+			<bestand>
+						<bestandsnaam>image3.png</bestandsnaam>
+						<contentType>img/png</contentType>
+			</bestand>
+			<bestand>
+								<bestandsnaam>image4.png</bestandsnaam>
+								<contentType>img/png</contentType>
+			</bestand>
+
+	<bestand>
+		<bestandsnaam></bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+
+	<bestand>
+		<bestandsnaam></bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>
+	<bestand>
+
+	<bestand>
+		<bestandsnaam></bestandsnaam>
+		<contentType>img/png</contentType>
+	</bestand>
+</manifest>

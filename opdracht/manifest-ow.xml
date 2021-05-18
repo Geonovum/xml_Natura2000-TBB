@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
+               xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/generiek/manifest-ow.xsd">
+   <domein>omgevingswet</domein>
+   <Aanlevering>
+   	<WorkIDRegeling>/akn/nl/act/mnre1045/2021/N2000-001TBB/nld@2021-05-15;1</WorkIDRegeling>
+   	<DoelID>/join/id/proces/mnre1153/2021/Instelling</DoelID>
+		<Bestand>
+      	<naam>owLocaties-N2000TBB.xml</naam>
+         <objecttype>Gebied</objecttype>
+      </Bestand>
+			<Bestand>
+      	<naam>owRegeltekst-natura2000TBB.xml</naam>
+         <objecttype>Regeltekst</objecttype>
+         <objecttype>RegelVoorIedereen</objecttype>
+      </Bestand>
+      <Bestand>
+      	<naam>owActiviteiten-Natura2000TBB.xml</naam>
+         <objecttype>Activiteit</objecttype>
+      </Bestand>
+   	<Bestand>
+   		<naam>owRegelingsgebied.xml</naam>
+   		<objecttype>Regelingsgebied</objecttype>
+   	</Bestand>
+   </Aanlevering>
+</Aanleveringen>

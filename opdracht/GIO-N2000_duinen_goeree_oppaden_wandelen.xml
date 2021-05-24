@@ -7,16 +7,16 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_oppaden_wandelen2</FRBRWork>
-         <FRBRExpression>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_oppaden_wandelen2/nld@2019-06-18;3520</FRBRExpression>
+         <FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen/nld@2019-06-18;3520</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>N2000_duinen_goeree_oppaden_wandelen2.gml</bestandsnaam>
-               	<hash>6e48e9cc2b126a71112cce243e0a716ea635badfbc586ce3bf1e2f99c079b071efceb3e1f51b3a533b4f92af197cb0f62eba453a6fdb96df3f5f5fbdd51e1063</hash>
+               	<bestandsnaam>N2000_duinen_goeree_oppaden_wandelen.gml</bestandsnaam>
+               	<hash>a462efd9fc6bb4cff9e5d0ac29c050688fc346a2a17f03c91a0b31b59a4ed480d9e33538e604bf4dfcb8e27a4d72d3f91515bf954dc8045d42b0ab713384ba6c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -28,10 +28,10 @@
          <alternatieveTitels>
             <alternatieveTitel>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_oppaden_wandelen2</officieleTitel>
+         <officieleTitel>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>N2000_duinen_goeree_oppaden_wandelen2</naamInformatieObject>
+         <naamInformatieObject>N2000_duinen_goeree_oppaden_wandelen</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

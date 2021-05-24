@@ -16,8 +16,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_jaarrondwandelen2</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_jaarrondwandelen2/nld@2019-06-18;3520</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
             	<geo:naam>het strand aan de oostzijde en de slufter</geo:naam>
@@ -25,7 +25,7 @@
                   <basisgeo:Geometrie gml:id="id-46a41a48-5243-4a84-8344-7c4c6b5dba94-xx">
                      <basisgeo:id>46a41a48-5243-4a84-8344-7c4c6b5dba94</basisgeo:id>
                      <basisgeo:geometrie>
-                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-46a41a48-5243-4a84-8344-7c4c6b5dba94">
                      		<gml:surfaceMember>
                      			<gml:Polygon>
                      				<gml:exterior>

@@ -16,8 +16,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree/nld@2019-06-18;3520</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
             	<geo:naam>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</geo:naam>
@@ -26,7 +26,7 @@
                      <basisgeo:id>c24ed1e5-1332-46b9-a7df-cc11668e9c72</basisgeo:id>
                      <basisgeo:geometrie>
 
-                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-c24ed1e5-1332-46b9-a7df-cc11668e9c72">
                      		<gml:surfaceMember>
                      			<gml:Polygon>
                      				<gml:exterior>

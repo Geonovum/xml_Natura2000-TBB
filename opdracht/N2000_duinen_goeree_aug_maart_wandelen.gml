@@ -16,8 +16,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_aug_maart_wandelen2</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree_aug_maart_wandelen2/nld@2019-06-18;3520</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_aug_maart_wandelen</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_aug_maart_wandelen/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
             	<geo:naam>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden "noordoostelijk schor" en "de punt"</geo:naam>
@@ -25,7 +25,7 @@
                   <basisgeo:Geometrie gml:id="id-18b76856-9315-465a-8020-3e4dda296b4f-xx">
                      <basisgeo:id>18b76856-9315-465a-8020-3e4dda296b4f</basisgeo:id>
                      <basisgeo:geometrie>
-                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-18b76856-9315-465a-8020-3e4dda296b4f">
                      		<gml:surfaceMember>
                      			<gml:Polygon>
                      				<gml:exterior>

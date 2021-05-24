@@ -66,18 +66,18 @@
 	</bestand>
 	<bestand>
 		<bestandsnaam>image1.png</bestandsnaam>
-		<contentType>img/png</contentType>
+		<contentType>image/png</contentType>
 	</bestand>
 	<bestand>
 		<bestandsnaam>image2.png</bestandsnaam>
-		<contentType>img/png</contentType>
+		<contentType>image/png</contentType>
 	</bestand>
 	<bestand>
 		<bestandsnaam>image3.png</bestandsnaam>
-		<contentType>img/png</contentType>
+		<contentType>image/png</contentType>
 	</bestand>
 	<bestand>
 		<bestandsnaam>image4.png</bestandsnaam>
-		<contentType>img/png</contentType>
+		<contentType>image/png</contentType>
 	</bestand>
 </manifest>

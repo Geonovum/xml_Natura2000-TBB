@@ -7,16 +7,16 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree</FRBRWork>
-         <FRBRExpression>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree/nld@2019-06-18;3520</FRBRExpression>
+         <FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree/nld@2019-06-18;3520</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>N2000_duinen_goereeOW.gml</bestandsnaam>
-               	<hash>d874fe9253c3441dbbf9514d759dd3e33ea1359b4ee14212b8cccc1d88a3d37a8c4801b39dc3f29095f2e8ce681d86956b1744985009abce3fe1c5917bf719f1</hash><!--sha256sum N2000_duinen_goereeOW.gml-->
+               	<bestandsnaam>N2000_duinen_goeree.gml</bestandsnaam>
+               	<hash>ab87ddf0de1d20ecca152289bfdd648f52d4da48f92307e032524cb3728812d7aebce1818d5bea3bd522fc5354a283d11da95bca6951cb00c436e85f0f2f4a3b</hash><!--sha256sum N2000_duinen_goereeOW.gml-->
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -28,7 +28,7 @@
          <alternatieveTitels>
          	<alternatieveTitel>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/mnre1053/2019/N2000_duinen_goeree</officieleTitel>
+         <officieleTitel>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>N2000_duinen_goeree</naamInformatieObject>

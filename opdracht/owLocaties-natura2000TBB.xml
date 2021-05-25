@@ -26,7 +26,7 @@
                <l:identificatie>nl.imow-mnre1045.gebied.2019000001</l:identificatie>
             	<l:noemer>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden "noordoostelijk schor" en "de punt"</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="a507af258968a722acd5594e2f1f5e9d48dedc87e997557e3c967361bbce9b02b5185207929935ed70a8b89d37cc68edd1e1b5a1885cb595ec6926cc3463f32f"/>
+               	<l:GeometrieRef xlink:href="18b76856-9315-465a-8020-3e4dda296b4f"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -37,7 +37,7 @@
                <l:identificatie>nl.imow-mnre1045.gebied.2019000002</l:identificatie>
             	<l:noemer>het strand aan de oostzijde en de slufter</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="01e8bca41d641fb12d4e725656aca0dbaef339da21e9bccf905ea4ee56f9ef545377253b5bd26703c3a550f777229210e143318554aeb613e0cf517f39f423a9"/>
+               	<l:GeometrieRef xlink:href="46a41a48-5243-4a84-8344-7c4c6b5dba94"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -48,7 +48,7 @@
                <l:identificatie>nl.imow-mnre1045.gebied.2019000003</l:identificatie>
             	<l:noemer>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="ab87ddf0de1d20ecca152289bfdd648f52d4da48f92307e032524cb3728812d7aebce1818d5bea3bd522fc5354a283d11da95bca6951cb00c436e85f0f2f4a3b"/>
+               	<l:GeometrieRef xlink:href="c24ed1e5-1332-46b9-a7df-cc11668e9c72"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -59,7 +59,7 @@
                <l:identificatie>nl.imow-mnre1045.gebied.2019000004</l:identificatie>
             	<l:noemer>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="a462efd9fc6bb4cff9e5d0ac29c050688fc346a2a17f03c91a0b31b59a4ed480d9e33538e604bf4dfcb8e27a4d72d3f91515bf954dc8045d42b0ab713384ba6c"/>
+               	<l:GeometrieRef xlink:href="a05fff18-74a2-483a-9f8e-1be60eeb477d"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>

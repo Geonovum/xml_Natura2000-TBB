@@ -250,7 +250,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href=""/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000008"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000008</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>

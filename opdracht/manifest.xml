@@ -65,19 +65,19 @@
 		<contentType>application/gml+xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>image1.png</bestandsnaam>
-		<contentType>image/png</contentType>
+		<bestandsnaam>image1.jpeg</bestandsnaam>
+		<contentType>image/jpeg</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>image2.png</bestandsnaam>
-		<contentType>image/png</contentType>
+		<bestandsnaam>image2.jpeg</bestandsnaam>
+		<contentType>image/jpeg</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>image3.png</bestandsnaam>
-		<contentType>image/png</contentType>
+		<bestandsnaam>image3.jpeg</bestandsnaam>
+		<contentType>image/jpeg</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>image4.png</bestandsnaam>
-		<contentType>image/png</contentType>
+		<bestandsnaam>image4.jpeg</bestandsnaam>
+		<contentType>image/jpeg</contentType>
 	</bestand>
 </manifest>

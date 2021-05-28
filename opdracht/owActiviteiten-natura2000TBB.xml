@@ -21,7 +21,7 @@
 					<rol:naam>toegangsactiviteit</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -34,7 +34,7 @@
 					<rol:naam>gebruik modelvliegtuigen en modelluchtvaartuigen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -47,7 +47,7 @@
 					<rol:naam>gehele jaar wandelen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -60,7 +60,7 @@
 					<rol:naam>wandelen in 16 augustus t/m 14 maart</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -74,7 +74,7 @@
 					<rol:naam>op paden wandelen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -87,7 +87,7 @@
 					<rol:naam>beperkte activiteiten</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -100,7 +100,7 @@
 					<rol:naam>toegangsactiviteit</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -113,7 +113,7 @@
 					<rol:naam>toegang private gronden</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Toegangsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActGevolgNatuur"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.ActGevolgNatuur"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>

@@ -7,28 +7,28 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen/nld@2019-06-18;3520</FRBRExpression>
+         <data:FRBRWork xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen20210528115308</data:FRBRWork>
+         <data:FRBRExpression xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen20210528115308/nld@2019-06-18;3520</data:FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-               	<bestandsnaam>N2000_duinen_goeree_jaarrondwandelen.gml</bestandsnaam>
-               	<hash>01e8bca41d641fb12d4e725656aca0dbaef339da21e9bccf905ea4ee56f9ef545377253b5bd26703c3a550f777229210e143318554aeb613e0cf517f39f423a9</hash>
+               	  <bestandsnaam>N2000_duinen_goeree_jaarrondwandelen.gml</bestandsnaam>
+               	  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">6f473c7451613dcdc4a5403016c9942d8bde7c366d81ccceaad21e089f9ad582bf56669b28e93099dc1cf145d409175481745df63f02447dc84fe3b466a9af1a</data:hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
-         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/N2000-001TBB/nld@2021-05-15;1</heeftGeboorteregeling>
+         <data:heeftGeboorteregeling xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/akn/nl/act/mnre1045/2021/N2000-001TBB20210528115308</data:heeftGeboorteregeling>
       </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
          <alternatieveTitels>
-         	<alternatieveTitel>het strand aan de oostzijde en de slufter</alternatieveTitel>
+         	  <alternatieveTitel>het strand aan de oostzijde en de slufter</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen</officieleTitel>
+         <data:officieleTitel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen20210528115308</data:officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>N2000_duinen_goeree_jaarrondwandelen</naamInformatieObject>

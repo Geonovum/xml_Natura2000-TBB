@@ -15,7 +15,7 @@
       <sl:dataset>Natura2000TBB</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Natura2000TBB</sl:gebied>
-         <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
+         <sl:leveringsId>id-publicatie-234501-20210528115308</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
@@ -23,10 +23,10 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.2019000001</l:identificatie>
-            	<l:noemer>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden "noordoostelijk schor" en "de punt"</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebied.201900000120210528115308</l:identificatie>
+            	  <l:noemer>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden "noordoostelijk schor" en "de punt"</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="18b76856-9315-465a-8020-3e4dda296b4f"/>
+               	  <l:GeometrieRef xlink:href="3606a091-d3dd-4457-bd26-5bc70eab5b2e"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -34,32 +34,32 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.2019000002</l:identificatie>
-            	<l:noemer>het strand aan de oostzijde en de slufter</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebied.201900000220210528115308</l:identificatie>
+            	  <l:noemer>het strand aan de oostzijde en de slufter</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="46a41a48-5243-4a84-8344-7c4c6b5dba94"/>
+               	  <l:GeometrieRef xlink:href="b2454bbc-7319-4aed-a589-2e353f055534"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-		  <sl:stand>
+		    <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.2019000003</l:identificatie>
-            	<l:noemer>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebied.201900000320210528115308</l:identificatie>
+            	  <l:noemer>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="c24ed1e5-1332-46b9-a7df-cc11668e9c72"/>
+               	  <l:GeometrieRef xlink:href="24dafef0-c29d-4c20-8a75-95459cb5d4a8"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-		  <sl:stand>
+		    <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.2019000004</l:identificatie>
-            	<l:noemer>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebied.201900000420210528115308</l:identificatie>
+            	  <l:noemer>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</l:noemer>
                <l:geometrie>
-               	<l:GeometrieRef xlink:href="a05fff18-74a2-483a-9f8e-1be60eeb477d"/>
+               	  <l:GeometrieRef xlink:href="60549354-5a11-48d4-b4c0-5341929608d9"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>

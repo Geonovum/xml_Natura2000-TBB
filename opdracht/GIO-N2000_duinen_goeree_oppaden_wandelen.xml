@@ -7,20 +7,20 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen/nld@2019-06-18;3520</FRBRExpression>
+         <data:FRBRWork xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen20210528115308</data:FRBRWork>
+         <data:FRBRExpression xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen20210528115308/nld@2019-06-18;3520</data:FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-               	<bestandsnaam>N2000_duinen_goeree_oppaden_wandelen.gml</bestandsnaam>
-               	<hash>a462efd9fc6bb4cff9e5d0ac29c050688fc346a2a17f03c91a0b31b59a4ed480d9e33538e604bf4dfcb8e27a4d72d3f91515bf954dc8045d42b0ab713384ba6c</hash>
+               	  <bestandsnaam>N2000_duinen_goeree_oppaden_wandelen.gml</bestandsnaam>
+               	  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">6ce2e1006c9627de8a3957215502e5c8ddc7769580b422b8ad607f5f4f6588d91b58e83b8c205414019fa7db8b007a1f7aa27cd1970d2c6ad51bd4481468dd07</data:hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
-         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/N2000-001TBB/nld@2021-05-15;1</heeftGeboorteregeling>
+         <data:heeftGeboorteregeling xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/akn/nl/act/mnre1045/2021/N2000-001TBB20210528115308</data:heeftGeboorteregeling>
       </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
@@ -28,7 +28,7 @@
          <alternatieveTitels>
             <alternatieveTitel>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen</officieleTitel>
+         <data:officieleTitel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen20210528115308</data:officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>N2000_duinen_goeree_oppaden_wandelen</naamInformatieObject>

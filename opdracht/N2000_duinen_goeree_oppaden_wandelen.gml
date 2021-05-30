@@ -16,17 +16,27 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen/nld@2019-06-18;3520</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen20210528115308</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen20210528115308/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>N2000_duinen_goeree_oppaden_wandelen</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-a05fff18-74a2-483a-9f8e-1be60eeb477d-xx">
-                     <basisgeo:id>a05fff18-74a2-483a-9f8e-1be60eeb477d</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-60549354-5a11-48d4-b4c0-5341929608d9-xx">
+                     <basisgeo:id>60549354-5a11-48d4-b4c0-5341929608d9</basisgeo:id>
                      <basisgeo:geometrie>
-                     	<gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-a05fff18-74a2-483a-9f8e-1be60eeb477d">
-                     		<gml:surfaceMember><gml:Polygon gml:id="N2000_duinen_goeree_oppaden_wandelen3.geom.0.0"><gml:exterior><gml:LinearRing><gml:posList>56145 428570 56164 428452 56353 428493 57046 428591 57802 428579 58196 428571 58234 428553 58374 428523 58703 428464 59025 428407 59272 428298 59532 428232 59991 428184 60422 428104 60710 427986 60769 427932 60797 427960 60908 427873 61077 427739 61254 427934 61436 428132 61706 427887 61527 428695 60936 429566 59973 429154 59743 429178 58878 429082 58868 429081 58306 429061 58173 429055 58068 428998 57950 428985 57787 428879 57604 428813 57446 428790 57241 428787 57214 428786 57022 428773 56626 428665 56445 428648 56145 428570</gml:posList></gml:LinearRing></gml:exterior></gml:Polygon></gml:surfaceMember></gml:MultiSurface>
+                     	  <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
+                                          gml:id="id-60549354-5a11-48d4-b4c0-5341929608d9">
+                     		    <gml:surfaceMember>
+                              <gml:Polygon gml:id="N2000_duinen_goeree_oppaden_wandelen3.geom.0.0">
+                                 <gml:exterior>
+                                    <gml:LinearRing>
+                                       <gml:posList>56145 428570 56164 428452 56353 428493 57046 428591 57802 428579 58196 428571 58234 428553 58374 428523 58703 428464 59025 428407 59272 428298 59532 428232 59991 428184 60422 428104 60710 427986 60769 427932 60797 427960 60908 427873 61077 427739 61254 427934 61436 428132 61706 427887 61527 428695 60936 429566 59973 429154 59743 429178 58878 429082 58868 429081 58306 429061 58173 429055 58068 428998 57950 428985 57787 428879 57604 428813 57446 428790 57241 428787 57214 428786 57022 428773 56626 428665 56445 428648 56145 428570</gml:posList>
+                                    </gml:LinearRing>
+                                 </gml:exterior>
+                              </gml:Polygon>
+                           </gml:surfaceMember>
+                        </gml:MultiSurface>
                      </basisgeo:geometrie>
                   </basisgeo:Geometrie>
                </geo:geometrie>

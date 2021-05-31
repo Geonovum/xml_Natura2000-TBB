@@ -16,8 +16,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen20210528115308</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen20210528115308/nld@2019-06-18;3520</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_jaarrondwandelen/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
             	  <geo:naam>het strand aan de oostzijde en de slufter</geo:naam>

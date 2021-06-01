@@ -122,11 +122,9 @@
 				</RegelingOpschrift>
 				<Aanhef eId="formula_1" wId="formula_1">
 					<Al><b>DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN,</b></Al>
-					<Considerans>
 						<Al>Handelende in overeenstemming met de minister van Infrastructuur en Milieu;</Al>
 						<Al>Gelet op artikel 20, eerste en tweede lid, van de Natuurbeschermingswet 1998 (hierna te noemen: Nb-wet 1998);</Al>
 						<Al>Besluit:</Al>
-					</Considerans>
 				</Aanhef>
 				<Lichaam eId="body" wId="body">
 					<!--eId="chp_Besluit" wId="mnre1045_1__chp_Besluit-->

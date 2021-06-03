@@ -20,7 +20,7 @@
          <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_aug_maart_wandelen/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
-            	  <geo:naam>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden "noordoostelijk schor" en "de punt"</geo:naam>
+            	<geo:naam>noordoostelijk schor en de punt</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-3606a091-d3dd-4457-bd26-5bc70eab5b2e-xx">
                      <basisgeo:id>3606a091-d3dd-4457-bd26-5bc70eab5b2e</basisgeo:id>

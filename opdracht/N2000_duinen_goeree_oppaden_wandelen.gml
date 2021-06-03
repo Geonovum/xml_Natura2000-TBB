@@ -20,7 +20,7 @@
          <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
-               <geo:naam>N2000_duinen_goeree_oppaden_wandelen</geo:naam>
+            	<geo:naam>zuidelijk en westelijk deel van de Kwade Hoek</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-60549354-5a11-48d4-b4c0-5341929608d9-xx">
                      <basisgeo:id>60549354-5a11-48d4-b4c0-5341929608d9</basisgeo:id>

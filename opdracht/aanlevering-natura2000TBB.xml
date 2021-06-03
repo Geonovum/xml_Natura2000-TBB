@@ -118,13 +118,12 @@
 			<RegelingKlassiek componentnaam="initieel_reg"
 				wordt="/akn/nl/act/mnre1045/2021/N2000-001TBB/nld@2021-05-15;1">
 				<RegelingOpschrift eId="longTitle" wId="longTitle">
-					<Al>Besluit van de Staatssecretaris van Economische Zaken, van 19 mei 2016 met kenmerk 16068366, tot beperking in toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</Al>
+					<Al>Besluit tot beperking in toegankelijkheid van gebieden gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</Al>
 				</RegelingOpschrift>
 				<Aanhef eId="formula_1" wId="formula_1">
 					<Al><b>DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN,</b></Al>
 						<Al>Handelende in overeenstemming met de minister van Infrastructuur en Milieu;</Al>
 						<Al>Gelet op artikel 20, eerste en tweede lid, van de Natuurbeschermingswet 1998 (hierna te noemen: Nb-wet 1998);</Al>
-						<Al>Besluit:</Al>
 				</Aanhef>
 				<Lichaam eId="body" wId="body">
 					<!--eId="chp_Besluit" wId="mnre1045_1__chp_Besluit-->
@@ -139,10 +138,10 @@
 							<Inhoud>
 								<Lijst eId="art_1__para_1__list_o_1"
 									wId="mnre1045_1__art_1__para_1__list_o_1" type="expliciet">
-									<Lijstaanhef>Voor <IntIoRef eId="art_1__para_1__list_o_1__ref_o_1"
+									<Lijstaanhef>Voor het gehele <IntIoRef eId="art_1__para_1__list_o_1__ref_o_1"
 											wId="mnre1045_1__art_1__para_1__list_o_1__ref_o_1"
 											ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-											>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</IntIoRef>, met uitzondering van hieronder genoemde deelgebieden, is de toegang gedurende het gehele jaar verboden voor:</Lijstaanhef>
+											>Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</IntIoRef>, met uitzondering van hieronder genoemde deelgebieden, is de toegang gedurende het gehele jaar verboden voor:</Lijstaanhef>
 									<Li eId="art_1__para_1__list_o_1__item_a"
 										wId="mnre1045_1__art_1__para_1__list_o_1__item_a">
 										<LiNummer>a.</LiNummer>
@@ -187,10 +186,10 @@
 						<Inhoud>
 							<Lijst eId="art_2__list_o_1" wId="mnre1045_1__art_2__list_o_1"
 								type="expliciet">
-								<Lijstaanhef>Voor de binnen het Natura-2000 gebied '<IntIoRef
-										eId="art_2__list_o_1__ref_o_1" wId="mnre1045_1__art_2__ref_o_1"
-										ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
-										>Duinen Goeree &amp; Kwade Hoek</IntIoRef>' gelegen deelgebieden "noordoostelijk schor" en "de punt", zoals aangegeven op de bij dit besluit behorende kaart als bedoeld in <IntRef
+								<Lijstaanhef>Voor de binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden <IntIoRef
+									eId="art_2__list_o_1__ref_o_1" wId="mnre1045_1__art_2__ref_o_1"
+									ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
+									>"noordoostelijk schor" en "de punt"</IntIoRef>, zoals aangegeven op de bij dit besluit behorende kaart als bedoeld in <IntRef
 										ref="art_6"
 									>artikel 6</IntRef>, is de toegang gedurende het hele jaar voor een ieder verboden, behoudens de volgende uitzondering:</Lijstaanhef>
 								<Li eId="art_2__list_o_1__item_o_1"
@@ -209,10 +208,10 @@
 						<Inhoud>
 							<Lijst eId="art_3__list_o_1" wId="mnre1045_1__art_3__list_o_1"
 								type="expliciet">
-								<Lijstaanhef>Voor de <IntIoRef eId="art_3__list_o_1__ref_o_1"
-										wId="mnre1045_1__art_3__ref_o_1"
-										ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
-										>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</IntIoRef>, zoals aangegeven op de bij dit besluit behorende kaart als bedoeld in <IntRef
+								<Lijstaanhef>Voor de binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "<IntIoRef eId="art_3__list_o_1__ref_o_1"
+									wId="mnre1045_1__art_3__ref_o_1"
+									ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
+									>zuidelijk en westelijk deel van de Kwade Hoek</IntIoRef>", zoals aangegeven op de bij dit besluit behorende kaart als bedoeld in <IntRef
 										ref="art_6"
 									>artikel 6</IntRef>, is de toegang gedurende het hele jaar verboden, behoudens de volgende uitzondering:</Lijstaanhef>
 								<Li eId="art_3__list_o_1__item_o_1"
@@ -298,30 +297,24 @@
 						<Lid eId="art_7__para_1" wId="mnre1045_1__art_7__para_1">
 							<LidNummer>1.</LidNummer>
 							<Inhoud>
-								<Al>De gebieden waarvan de toegankelijkheid middels dit besluit wordt beperkt, zijn aangegeven op de bij dit besluit behorende kaart 'Toegangsbeperkingen Kwade Hoek', alsmede de bij deze kaart behorende bijlage met omsluitende coördinaten.</Al>
+								<Al>De <IntIoRef
+									eId="art_7__para_1__ref_o_1" wId="mnre1045_1__art_7__ref_o_1"
+									ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+									>gebieden</IntIoRef> waarvan de toegankelijkheid middels dit besluit wordt beperkt, zijn aangegeven op de bij dit besluit behorende kaart 'Toegangsbeperkingen Kwade Hoek', alsmede de bij deze kaart behorende bijlage met omsluitende coördinaten.</Al>
 							</Inhoud>
 						</Lid>
 						<Lid eId="art_7__para_2" wId="mnre1045_1__art_7__para_2">
 							<LidNummer>2.</LidNummer>
 							<Inhoud>
 								<Al>In het veld en op het water zijn de begrenzingen van het gebied waarvan de toegankelijkheid wordt beperkt, herkenbaar door middel van palen met bebording en/of ballenlijnen.</Al>
-
-								<Tussenkop>De Staatssecretaris van Economische Zaken,</Tussenkop>
-								<Al>
-									<i>M</i>
-									<i>.H.P.</i>
-									<i> van Dam</i>
-								</Al>
-
 							</Inhoud>
 						</Lid>
 					</Artikel>
 				</Lichaam>
 				<Sluiting eId="body__formula_2_o_1" wId="mnre1045_1__formula_2_o_1">
 					<Ondertekening>
-						<Al>DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN, 
-							Handelende in overeenstemming met de minister van Infrastructuur en Milieu; 
-							Gelet op artikel 20, eerste en tweede lid, van de Natuurbeschermingswet 1998 (hierna te noemen: Nb-wet 1998);</Al>
+						<Al>De Staatssecretaris van Economische Zaken,</Al>
+						<Al><i>M.H.P. van Dam</i></Al>
 					</Ondertekening>
 				</Sluiting>
 				<Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_1" wId="mnre1045_1__cmp_o_1">
@@ -391,9 +384,6 @@
 						</Inhoud>
 					</Divisietekst>
 				</Bijlage>
-
-
-
 
 				<Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_2" wId="mnre1045_1__cmp_o_2" dso:niveau="1">
 					<Kop>
@@ -605,30 +595,41 @@
 							wId="mnre1045_1__cmp_o_2__div_o_4__content_o_1">
 							<Inhoud>
 								<Al>Op grond van artikel 31 Nb-wet 1998 komt onevenredige schade die geleden wordt als gevolg van besluiten op grond van hoofdstuk III van die wet voor vergoeding in aanmerking.</Al>
-								<Figuur eId="cmp_o_2__div_o_4__content_o_1__img_o_1"
-									wId="mnre1045_1__cmp_o_2__div_o_4__content_o_1__img_o_1">
+							</Inhoud>
+						</Divisietekst>
+					</Divisie>
+					
+					<Divisie eId="cmp_o_2__div_o_5" wId="mnre1045_1__cmp_o_2__div_o_5" dso:niveau="2">
+						<Kop>
+							<Opschrift>Kaarten als bedoeld in artikel 4.</Opschrift>
+						</Kop>
+						<Divisietekst eId="cmp_o_2__div_o_5__content_o_1"
+							wId="mnre1045_1__cmp_o_2__div_o_5__content_o_1">
+							<Inhoud>
+								<Figuur eId="cmp_o_2__div_o_5__content_o_1__img_o_1"
+									wId="mnre1045_1__cmp_o_2__div_o_5__content_o_1__img_o_1">
 									<Illustratie naam="image1.jpeg" formaat="image/jpeg" breedte="570" hoogte="578" dpi="72"
 										uitlijning="start"/>
 									<Bijschrift locatie="boven"
 										>Kaart1 als bedoeld in artikel 4 van het toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek.</Bijschrift>
 								</Figuur>
-								<Figuur eId="cmp_o_2__div_o_4__content_o_1__img_o_2"
-									wId="mnre1045_1__cmp_o_2__div_o_4__content_o_1__img_o_2">
+								<Figuur eId="cmp_o_2__div_o_5__content_o_1__img_o_2"
+									wId="mnre1045_1__cmp_o_2__div_o_5__content_o_1__img_o_2">
 									<Illustratie naam="image2.jpeg" formaat="image/jpeg" breedte="574" hoogte="577" dpi="72"
 										uitlijning="start"/>
 									<Bijschrift locatie="boven"
 										>Kaart2 als bedoeld in artikel 4 van het toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek.</Bijschrift>
 								</Figuur>
 
-								<Figuur eId="cmp_o_2__div_o_4__content_o_1__img_o_3"
-									wId="mnre1045_1__cmp_o_2__div_o_4__content_o_1__img_o_3">
+								<Figuur eId="cmp_o_2__div_o_5__content_o_1__img_o_3"
+									wId="mnre1045_1__cmp_o_2__div_o_5__content_o_1__img_o_3">
 									<Illustratie naam="image3.jpeg" formaat="image/jpeg" breedte="1089" hoogte="616" dpi="72"
 										uitlijning="start"/>
 									<Bijschrift locatie="boven"
 										>Kaart3 als bedoeld in artikel 4 van het toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek.</Bijschrift>
 								</Figuur>
-								<Figuur eId="cmp_o_2__div_o_4__content_o_1__img_o_4"
-									wId="mnre1045_1__cmp_o_2__div_o_4__content_o_1__img_o_4">
+								<Figuur eId="cmp_o_2__div_o_5__content_o_1__img_o_4"
+									wId="mnre1045_1__cmp_o_2__div_o_5__content_o_1__img_o_4">
 									<Illustratie naam="image4.jpeg" formaat="image/jpeg" breedte="985" hoogte="561" dpi="72"
 										uitlijning="start"/>
 									<Bijschrift locatie="onder"

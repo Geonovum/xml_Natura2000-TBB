@@ -14,10 +14,10 @@
 			<eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
 			<maker>/tooi/id/ministerie/mnre1045</maker>
 			<soortBestuursorgaan>/tooi/def/thes/kern/c_3aaa4d12</soortBestuursorgaan>
-			<officieleTitel>Besluit van de Staatssecretaris van Economische Zaken, van 19 mei 2016 met kenmerk 16068366, tot beperking in toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</officieleTitel>
+			<officieleTitel>Besluit tot beperking in toegankelijkheid van gebieden gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</officieleTitel>
 			<heeftCiteertitelInformatie>
 				<CiteertitelInformatie>
-					<citeertitel>Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</citeertitel>
+					<citeertitel>Toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</citeertitel>
 					<isOfficieel>true</isOfficieel>
 				</CiteertitelInformatie>
 			</heeftCiteertitelInformatie>
@@ -280,7 +280,7 @@
 							<Nummer>6</Nummer>
 						</Kop>
 						<Lid eId="art_6__para_1" wId="mnre1045_1__art_6__para_1">
-							<LidNummer>1</LidNummer>
+							<LidNummer>1.</LidNummer>
 							<Inhoud>
 								<Al>Naast de in voorkomende gevallen op grond van de toegankelijkheidsregeling noodzakelijke vergunning, dan wel vrijstelling via het beheerplan, volgens de Nb-wet 1998, is voor het zich bevinden op <IntIoRef
 										eId="art_6__para_1__ref_o_1" wId="mnre1045_1__art_6__ref_o_1"
@@ -327,7 +327,7 @@
 								wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1">
 								<Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
 									wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
-									<Term>het gehele Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</Term>
+									<Term>Natura 2000-gebied 'Duinen Goeree &amp; Kwade Hoek'</Term>
 									<Definitie>
 										<Al>
 											<tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
@@ -354,7 +354,7 @@
 
 								<Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_3"
 									wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3">
-									<Term>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebied "zuidelijk en westelijk deel van de Kwade Hoek"</Term>
+									<Term>zuidelijk en westelijk deel van de Kwade Hoek</Term>
 									<Definitie>
 										<Al>
 											<tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
@@ -368,7 +368,7 @@
 
 								<Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_4"
 									wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4">
-									<Term>binnen het Natura-2000 gebied 'Duinen Goeree &amp; Kwade Hoek' gelegen deelgebieden "noordoostelijk schor" en "de punt"</Term>
+									<Term>noordoostelijk schor en de punt</Term>
 									<Definitie>
 										<Al>
 											<tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
@@ -601,7 +601,7 @@
 					
 					<Divisie eId="cmp_o_2__div_o_5" wId="mnre1045_1__cmp_o_2__div_o_5" dso:niveau="2">
 						<Kop>
-							<Opschrift>Kaarten als bedoeld in artikel 4.</Opschrift>
+							<Opschrift>Kaarten als bedoeld in artikel 4</Opschrift>
 						</Kop>
 						<Divisietekst eId="cmp_o_2__div_o_5__content_o_1"
 							wId="mnre1045_1__cmp_o_2__div_o_5__content_o_1">
@@ -657,10 +657,10 @@
 			<soortRegeling>/join/id/stop/regelingtype_002</soortRegeling>
 			<eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
 			<maker>/tooi/id/ministerie/mnre1045</maker>
-			<officieleTitel>Besluit van de Staatssecretaris van Economische Zaken, van 19 mei 2016 met kenmerk 16068366, tot beperking in toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</officieleTitel>
+			<officieleTitel>Besluit tot beperking in toegankelijkheid van gebieden gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</officieleTitel>
 			<heeftCiteertitelInformatie>
 				<CiteertitelInformatie>
-					<citeertitel>Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</citeertitel>
+					<citeertitel>Toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</citeertitel>
 					<isOfficieel>true</isOfficieel>
 				</CiteertitelInformatie>
 			</heeftCiteertitelInformatie>

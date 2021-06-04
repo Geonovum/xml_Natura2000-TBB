@@ -33,7 +33,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.201900000"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.201900000</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
@@ -64,7 +64,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000002"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000002</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
@@ -95,7 +95,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000002"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000003"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000003</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
@@ -126,7 +126,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.201900000"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000004"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000004</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -157,7 +157,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000004"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000005"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000005</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -188,7 +188,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000006"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000006</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
@@ -284,7 +284,7 @@
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000007"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000001"/>
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000007</r:identificatie>
 						<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
@@ -314,16 +314,6 @@
 					<r:locatieaanduiding>
 						<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
 					</r:locatieaanduiding>
-					<r:activiteitaanduiding>
-						<rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.2019000008"/>
-						<r:ActiviteitLocatieaanduiding>
-							<r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.2019000008</r:identificatie>
-							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
-							<r:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.2019000003"/>
-							</r:locatieaanduiding>
-						</r:ActiviteitLocatieaanduiding>
-					</r:activiteitaanduiding>
 				</r:RegelVoorIedereen>
 			</ow-dc:owObject>
 		</sl:stand>

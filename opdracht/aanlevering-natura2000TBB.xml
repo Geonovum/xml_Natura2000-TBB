@@ -379,23 +379,19 @@
 										</Al>
 									</Definitie>
 								</Begrip>
-
 							</Begrippenlijst>
 						</Inhoud>
 					</Divisietekst>
 				</Bijlage>
-
 				<Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_2" wId="mnre1045_1__cmp_o_2" dso:niveau="1">
 					<Kop>
 						<Opschrift>TOELICHTING</Opschrift>
 					</Kop>
 					<Divisietekst eId="cmp_o_2__content_o_1" wId="mnre1045_1__cmp_o_2__content_o_1">
 						<Inhoud>
-
 							<Al>Binnen het Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek is het noodzakelijk de toegang tot een aantal deelgebieden te beperken. Deze toegangsbeperkingen dienen ter realisering van de Natura 2000- instandhoudingsdoelen voor dit Natura 2000-gebied, die volgen uit de Habitat- en Vogelrichtlijn. In het Aanwijzingsbesluit Duinen Goeree en Kwade Hoek zijn de instandhoudingsdoelen vastgelegd voor de op grond van de Europese Vogel- en Habitatrichtlijnen te beschermen soorten en habitats.</Al>
 							<Al>In het beheerplan voor dit gebied zijn de maatregelen opgenomen om tot een gunstige staat van instandhouding te komen voor de soorten en habitats.</Al>
 							<Al>Het betreft bescherming van habitats tegen te veel betreding en het waarborgen van de rust voor foeragerende, broedende en/of rustende vogels. Deze toelichting gaat hier nader op in.</Al>
-
 						</Inhoud>
 					</Divisietekst>
 					<Divisie eId="cmp_o_2__div_o_1" wId="mnre1045_1__cmp_o_2__div_o_1" dso:niveau="2">
@@ -654,7 +650,7 @@
 			<versienummer>1</versienummer>
 		</RegelingVersieMetadata>
 		<RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<soortRegeling>/join/id/stop/regelingtype_002</soortRegeling>
+			<soortRegeling>/join/id/stop/regelingtype_013</soortRegeling> <!--/join/id/stop/regelingtype_013 staat voor toegangsbeperkingsbesluit, als je nu wil aanleveren gebruik /join/id/stop/regelingtype_002-->
 			<eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
 			<maker>/tooi/id/ministerie/mnre1045</maker>
 			<officieleTitel>Besluit tot beperking in toegankelijkheid van gebieden gelegen binnen Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</officieleTitel>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
-               xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/generiek/manifest-ow.xsd">
+               xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-   	  <manifest-ow:WorkIDRegeling xmlns:manifest-ow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">/akn/nl/act/mnre1045/2021/N2000-001TBB</manifest-ow:WorkIDRegeling>
-   	  <manifest-ow:DoelID xmlns:manifest-ow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">/join/id/proces/mnre1045/2021/Instelling</manifest-ow:DoelID>
-		    <Bestand>
-      	  <naam>owLocaties-natura2000TBB.xml</naam>
+      <manifest-ow:WorkIDRegeling xmlns:manifest-ow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">/akn/nl/act/mnre1045/2021/N2000-001TBB</manifest-ow:WorkIDRegeling>
+      <manifest-ow:DoelID xmlns:manifest-ow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">/join/id/proces/mnre1045/2021/Instelling</manifest-ow:DoelID>
+      <Bestand>
+         <naam>owLocaties-natura2000TBB.xml</naam>
          <objecttype>Gebied</objecttype>
       </Bestand>
-			   <Bestand>
-      	  <naam>owRegeltekst-natura2000TBB.xml</naam>
+      <Bestand>
+         <naam>owRegeltekst-natura2000TBB.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>
       </Bestand>
       <Bestand>
-      	  <naam>owActiviteiten-natura2000TBB.xml</naam>
+         <naam>owActiviteiten-natura2000TBB.xml</naam>
          <objecttype>Activiteit</objecttype>
       </Bestand>
-   	  <Bestand>
-   		    <naam>owRegelingsgebied-natura2000TBB.xml</naam>
-   		    <objecttype>Regelingsgebied</objecttype>
-   	  </Bestand>
+      <Bestand>
+         <naam>owRegelingsgebied-natura2000TBB.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>

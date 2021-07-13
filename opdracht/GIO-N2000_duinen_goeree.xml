@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree</data:FRBRWork>
@@ -15,8 +15,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-               	  <bestandsnaam>N2000_duinen_goeree.gml</bestandsnaam>
-               	  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">36a8343723263f4ca7f79f0cff43c446ffb0a2043e5c87a1b5f59096b48a4738647de08de4106ab12423a16399484b72f9092a9eeb572e337835b4826f5acf01</data:hash>
+                  <bestandsnaam>N2000_duinen_goeree.gml</bestandsnaam>
+                  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">7a6c2a1a5f2389649130e00625c33c862e7da3fe7aac7e7501965eb40fe5c72e79ee680f472dce01aff1c74af8eb7ac180d04730666824dbf1814d1233f70720</data:hash>
                   <!--sha256sum N2000_duinen_goereeOW.gml-->
                </Bestand>
             </heeftBestand>
@@ -27,7 +27,7 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
          <alternatieveTitels>
-         	<alternatieveTitel>Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</alternatieveTitel>
+            <alternatieveTitel>Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek</alternatieveTitel>
          </alternatieveTitels>
          <data:officieleTitel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree</data:officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>

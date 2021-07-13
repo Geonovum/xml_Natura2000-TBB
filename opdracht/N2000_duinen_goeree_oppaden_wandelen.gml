@@ -6,8 +6,8 @@
                                      xmlns:gml="http://www.opengis.net/gml/3.2"
                                      xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                     schemaversie="1.0.4"
-                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd">
+                                     schemaversie="1.1.0"
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -20,14 +20,14 @@
          <geo:FRBRExpression>/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_oppaden_wandelen/nld@2019-06-18;3520</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
-            	<geo:naam>zuidelijk en westelijk deel van de Kwade Hoek</geo:naam>
+               <geo:naam>zuidelijk en westelijk deel van de Kwade Hoek</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-60549354-5a11-48d4-b4c0-5341929608d9-xx">
                      <basisgeo:id>60549354-5a11-48d4-b4c0-5341929608d9</basisgeo:id>
                      <basisgeo:geometrie>
-                     	  <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
+                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
                                           gml:id="id-60549354-5a11-48d4-b4c0-5341929608d9">
-                     		    <gml:surfaceMember>
+                           <gml:surfaceMember>
                               <gml:Polygon gml:id="N2000_duinen_goeree_oppaden_wandelen3.geom.0.0">
                                  <gml:exterior>
                                     <gml:LinearRing>

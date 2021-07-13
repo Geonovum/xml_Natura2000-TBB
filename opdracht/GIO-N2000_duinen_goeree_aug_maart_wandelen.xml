@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_aug_maart_wandelen</data:FRBRWork>
@@ -15,8 +15,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-               	  <bestandsnaam>N2000_duinen_goeree_aug_maart_wandelen.gml</bestandsnaam>
-               	  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">a098e73111361d1aefed48e84fb7be6927282bc5349efbcab8015d25fec6bb47bb33766be92c0f099b694b94fc0b2cf8e437ef3190edd3e1fb658623a7a15eb3</data:hash>
+                  <bestandsnaam>N2000_duinen_goeree_aug_maart_wandelen.gml</bestandsnaam>
+                  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">46648effe2f482ce3b00b563fde565e2d5bf4c43ed5d2fadedf3e8c75b903e83cc3603df3b69f0e281aaef18a039899f39e5f5d78641d232dee9e1ef35e40ee3</data:hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -26,7 +26,7 @@
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1153</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1153</maker>
          <alternatieveTitels>
-         	<alternatieveTitel>noordoostelijk schor en de punt</alternatieveTitel>
+            <alternatieveTitel>noordoostelijk schor en de punt</alternatieveTitel>
          </alternatieveTitels>
          <data:officieleTitel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1045/2019/N2000_duinen_goeree_aug_maart_wandelen</data:officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>

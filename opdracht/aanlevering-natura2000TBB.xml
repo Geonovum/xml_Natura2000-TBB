@@ -56,7 +56,7 @@
                   <data:doel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/proces/mnre1045/2021/Instelling</data:doel>
                </doelen>
                <data:instrumentVersie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/akn/nl/act/mnre1045/2021/N2000-001TBB/nld@2021-05-15;1</data:instrumentVersie>
-               <eId>art_1</eId>
+               <eId>!initieel_reg#art_1</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
@@ -92,7 +92,7 @@
                <data:doel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/proces/mnre1045/2021/Instelling</data:doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-05-19</datum>
-               <eId>art_1</eId>
+               <eId>!initieel_reg#art_1</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>

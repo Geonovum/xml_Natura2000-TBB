@@ -348,7 +348,7 @@
                   </Inhoud>
                </Divisietekst>
             </Bijlage>
-            <Bijlage xmlns:dso="https://www.dso.nl/"
+            <Toelichting xmlns:dso="https://www.dso.nl/"
                      eId="cmp_o_2"
                      wId="mnre1045_1__cmp_o_2"
                      dso:niveau="1">
@@ -606,7 +606,7 @@
                      </Figuur>
                   </Inhoud>
                </Divisietekst>
-            </Bijlage>
+            </Toelichting>
          </RegelingKlassiek>
       </BesluitKlassiek>
    </BesluitVersie>

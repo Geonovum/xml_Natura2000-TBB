@@ -349,21 +349,21 @@
                </Divisietekst>
             </Bijlage>
             <Toelichting xmlns:dso="https://www.dso.nl/"
-                     eId="cmp_o_2"
-                     wId="mnre1045_1__cmp_o_2"
+                     eId="recital_o_1"
+                     wId="mnre1045_1__recital_o_1"
                      dso:niveau="1">
                <Kop>
                   <Opschrift>TOELICHTING</Opschrift>
                </Kop>
-               <Divisietekst eId="cmp_o_2__content_o_1" wId="mnre1045_1__cmp_o_2__content_o_1">
+               <Divisietekst eId="recital_o_1__content_o_1" wId="mnre1045_1__recital_o_1__content_o_1">
                   <Inhoud>
                      <Al>Binnen het Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek is het noodzakelijk de toegang tot een aantal deelgebieden te beperken. Deze toegangsbeperkingen dienen ter realisering van de Natura 2000- instandhoudingsdoelen voor dit Natura 2000-gebied, die volgen uit de Habitat- en Vogelrichtlijn. In het Aanwijzingsbesluit Duinen Goeree en Kwade Hoek zijn de instandhoudingsdoelen vastgelegd voor de op grond van de Europese Vogel- en Habitatrichtlijnen te beschermen soorten en habitats.</Al>
                      <Al>In het beheerplan voor dit gebied zijn de maatregelen opgenomen om tot een gunstige staat van instandhouding te komen voor de soorten en habitats.</Al>
                      <Al>Het betreft bescherming van habitats tegen te veel betreding en het waarborgen van de rust voor foeragerende, broedende en/of rustende vogels. Deze toelichting gaat hier nader op in.</Al>
                   </Inhoud>
                </Divisietekst>
-               <Divisietekst eId="cmp_o_2__content_o_2"
-                             wId="mnre1045_1__cmp_o_2__content_o_2"
+               <Divisietekst eId="recital_o_1__content_o_2"
+                             wId="mnre1045_1__recital_o_1__content_o_2"
                              dso:niveau="2">
                   <Kop>
                      <Opschrift>Maatregelen</Opschrift>
@@ -379,21 +379,21 @@
                         <i>Indien</i>
                         <i> uit onderzoek blijkt dat de huidige zonering onvoldoende effectief is, worden maatregelen ondernomen. Hierbij kan worden gedacht aan het verlengen van de periodes dat gebieden niet toegankelijk zijn of het bijstellen van de ligging van afgesloten gebieden. In de beheerplanperiode 2015 - 2020 worden concreet de volgende maatregelen uitgevoerd:</i>
                      </Al>
-                     <Lijst eId="cmp_o_2__content_o_2__list_o_1"
-                            wId="mnre1045_1__cmp_o_2__content_o_2__list_o_1"
+                     <Lijst eId="recital_o_1__content_o_2__list_o_1"
+                            wId="mnre1045_1__recital_o_1__content_o_2__list_o_1"
                             type="expliciet">
-                        <Li eId="cmp_o_2__content_o_2__list_o_1__item_1"
-                            wId="mnre1045_1__cmp_o_2__content_o_2__list_o_1__item_1">
+                        <Li eId="recital_o_1__content_o_2__list_o_1__item_1"
+                            wId="mnre1045_1__recital_o_1__content_o_2__list_o_1__item_1">
                            <LiNummer>1.</LiNummer>
                            <Al>Het huidige beschermde broedgebied van de strandplevier en het rustgebied van niet­ broedvogels wordt (planologisch) beter beschermd (zie figuur 8.1). Deze gebieden kunnen door de staatssecretaris van E_Z worden aangewezen op grond van artikel 20 van de Natuurbeschermingswet 1998. De aanwijzing biedt meer instrumenten voor een effectieve handhaving van de beschermde gebieden, waardoor de naleving hiervan naar verwachting verbetert (dit is in paragraaf 4.4.1 bij de strandplevier benoemd als één van de belangrijke knelpunten voor de soort). Daarnaast wordt van de gebieden die niet toegankelijk zijn, aan de zeezijde duidelijker aangegeven dat het gebied ook niet toegankelijk is met vaartuigen (middels borden en/of ballenlijnen). Dit leidt naar verwachting tot een betere naleving van deze zonering (dit is in paragraaf 4.4.1 bij de strandplevier benoemd als één van de belangrijke knelpunten voor de soort).</Al>
                         </Li>
-                        <Li eId="cmp_o_2__content_o_2__list_o_1__item_2"
-                            wId="mnre1045_1__cmp_o_2__content_o_2__list_o_1__item_2">
+                        <Li eId="recital_o_1__content_o_2__list_o_1__item_2"
+                            wId="mnre1045_1__recital_o_1__content_o_2__list_o_1__item_2">
                            <LiNummer>2.</LiNummer>
                            <Al>Vervolgens wordt in de resterende periode onderzocht welke factoren bepalend zijn voor de grootte van de broedpopulatie van de strandplevier en de fluctuaties in de aantallen niet-broedvogels in de Kwade Hoek en in welke mate het (beter) beschermde broed- en rustgebied hieraan bijdraagt;</Al>
                         </Li>
-                        <Li eId="cmp_o_2__content_o_2__list_o_1__item_3"
-                            wId="mnre1045_1__cmp_o_2__content_o_2__list_o_1__item_3">
+                        <Li eId="recital_o_1__content_o_2__list_o_1__item_3"
+                            wId="mnre1045_1__recital_o_1__content_o_2__list_o_1__item_3">
                            <LiNummer>3.</LiNummer>
                            <Al>Op grond hiervan wordt een evaluatie uitgevoerd aan het einde van de eerste beheerplanperiode. Daarbij wordt op grond van de aantalsontwikkeling en het genoemde onderzoek een gefundeerd besluit genomen over de noodzaak tot het herzien van de huidige zonering van de Kwade Hoek.</Al>
                         </Li>
@@ -402,15 +402,15 @@
                      <Al>In het kader van de totstandkoming van het Beheerplan zijn de effecten van recreatie op strandplevier (daarmee impliciet habitattype H2110) en niet-broedvogels expliciet beoordeeld. Uit deze beoordeling is naar voren gekomen dat middels een betere borging van het broed- en rustgebied (zonering) in de Kwade Hoek de kans op significant negatieve gevolgen te voorkomen zijn. Het onderhavige toegangsbeperkingsbesluit voorziet in deze borging.</Al>
                   </Inhoud>
                </Divisietekst>
-               <Divisietekst eId="cmp_o_2__content_o_3"
-                             wId="mnre1045_1__cmp_o_2__content_o_3"
+               <Divisietekst eId="recital_o_1__content_o_3"
+                             wId="mnre1045_1__recital_o_1__content_o_3"
                              dso:niveau="2">
                   <Kop>
                      <Opschrift>Toelichting op de toegangsbeperking per gebied</Opschrift>
                   </Kop>
                   <Inhoud>
-                     <table eId="cmp_o_2__content_o_3__table_o_1"
-                            wId="mnre1045_1__cmp_o_2__content_o_3__table_o_1"
+                     <table eId="recital_o_1__content_o_3__table_o_1"
+                            wId="mnre1045_1__recital_o_1__content_o_3__table_o_1"
                             dso:class="standaard"
                             frame="all"
                             colsep="1"
@@ -536,8 +536,8 @@
                      </table>
                   </Inhoud>
                </Divisietekst>
-               <Divisietekst eId="cmp_o_2__content_o_4"
-                             wId="mnre1045_1__cmp_o_2__content_o_4"
+               <Divisietekst eId="recital_o_1__content_o_4"
+                             wId="mnre1045_1__recital_o_1__content_o_4"
                              dso:niveau="2">
                   <Kop>
                      <Opschrift>Vergunningplicht</Opschrift>
@@ -547,8 +547,8 @@
                      <Al>Ingevolge artikel 20, vierde lid van de Nb-wet 1998 gelden de toegangsbeperkingen niet voor de eigenaar of gebruiker van het betreffende gebied ten aanzien van het verbod zich binnen het gebied te bevinden indien bedoeld gebruiksrecht zich daarover uitstrekt. Indien en voor zover de eigenaar of gebruiker binnen het gebied activiteiten ontplooit, die verder gaan dan louter het zich bevinden binnen het gebied, geldt onverkort het bepaalde van deze regeling en artikel 19d Nb-wet 1998. De begrippen 'eigenaar' en 'gebruiker' zijn gedefinieerd in artikel 1 van de Nb-wet 1998; kortheidshalve wordt hier naar deze definities verwezen.</Al>
                   </Inhoud>
                </Divisietekst>
-               <Divisietekst eId="cmp_o_2__content_o_5"
-                             wId="mnre1045_1__cmp_o_2__content_o_5"
+               <Divisietekst eId="recital_o_1__content_o_5"
+                             wId="mnre1045_1__recital_o_1__content_o_5"
                              dso:niveau="2">
                   <Kop>
                      <Opschrift>Schade</Opschrift>
@@ -557,15 +557,15 @@
                      <Al>Op grond van artikel 31 Nb-wet 1998 komt onevenredige schade die geleden wordt als gevolg van besluiten op grond van hoofdstuk III van die wet voor vergoeding in aanmerking.</Al>
                   </Inhoud>
                </Divisietekst>
-               <Divisietekst eId="cmp_o_2__content_o_6"
-                             wId="mnre1045_1__cmp_o_2__content_o_6"
+               <Divisietekst eId="recital_o_1__content_o_6"
+                             wId="mnre1045_1__recital_o_1__content_o_6"
                              dso:niveau="2">
                   <Kop>
                      <Opschrift>Kaarten als bedoeld in artikel 4</Opschrift>
                   </Kop>
                   <Inhoud>
-                     <Figuur eId="cmp_o_2__content_o_6__img_o_1"
-                             wId="mnre1045_1__cmp_o_2__content_o_6__img_o_1">
+                     <Figuur eId="recital_o_1__content_o_6__img_o_1"
+                             wId="mnre1045_1__recital_o_1__content_o_6__img_o_1">
                         <Illustratie naam="image1.jpeg"
                                      formaat="image/jpeg"
                                      breedte="570"
@@ -574,8 +574,8 @@
                                      uitlijning="start"/>
                         <Bijschrift locatie="boven">Kaart1 als bedoeld in artikel 4 van het toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek.</Bijschrift>
                      </Figuur>
-                     <Figuur eId="cmp_o_2__content_o_6__img_o_2"
-                             wId="mnre1045_1__cmp_o_2__content_o_6__img_o_2">
+                     <Figuur eId="recital_o_1__content_o_6__img_o_2"
+                             wId="mnre1045_1__recital_o_1__content_o_6__img_o_2">
                         <Illustratie naam="image2.jpeg"
                                      formaat="image/jpeg"
                                      breedte="574"
@@ -584,8 +584,8 @@
                                      uitlijning="start"/>
                         <Bijschrift locatie="boven">Kaart2 als bedoeld in artikel 4 van het toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek.</Bijschrift>
                      </Figuur>
-                     <Figuur eId="cmp_o_2__content_o_6__img_o_3"
-                             wId="mnre1045_1__cmp_o_2__content_o_6__img_o_3">
+                     <Figuur eId="recital_o_1__content_o_6__img_o_3"
+                             wId="mnre1045_1__recital_o_1__content_o_6__img_o_3">
                         <Illustratie naam="image3.jpeg"
                                      formaat="image/jpeg"
                                      breedte="1089"
@@ -594,8 +594,8 @@
                                      uitlijning="start"/>
                         <Bijschrift locatie="boven">Kaart3 als bedoeld in artikel 4 van het toegangsbeperkingsbesluit Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek.</Bijschrift>
                      </Figuur>
-                     <Figuur eId="cmp_o_2__content_o_6__img_o_4"
-                             wId="mnre1045_1__cmp_o_2__content_o_6__img_o_4">
+                     <Figuur eId="recital_o_1__content_o_6__img_o_4"
+                             wId="mnre1045_1__recital_o_1__content_o_6__img_o_4">
                         <Illustratie naam="image4.jpeg"
                                      formaat="image/jpeg"
                                      breedte="985"

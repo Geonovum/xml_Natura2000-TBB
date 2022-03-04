@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    schemaversie="1.1.0"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/akn/nl/bill/mnre1045/2021/N2000-001TBB</data:FRBRWork>
@@ -349,13 +349,14 @@
                </Divisietekst>
             </Bijlage>
             <Toelichting xmlns:dso="https://www.dso.nl/"
-                     eId="recital_o_1"
-                     wId="mnre1045_1__recital_o_1"
-                     dso:niveau="1">
+                         eId="recital_o_1"
+                         wId="mnre1045_1__recital_o_1"
+                         dso:niveau="1">
                <Kop>
                   <Opschrift>TOELICHTING</Opschrift>
                </Kop>
-               <Divisietekst eId="recital_o_1__content_o_1" wId="mnre1045_1__recital_o_1__content_o_1">
+               <Divisietekst eId="recital_o_1__content_o_1"
+                             wId="mnre1045_1__recital_o_1__content_o_1">
                   <Inhoud>
                      <Al>Binnen het Natura 2000-gebied Duinen Goeree &amp; Kwade Hoek is het noodzakelijk de toegang tot een aantal deelgebieden te beperken. Deze toegangsbeperkingen dienen ter realisering van de Natura 2000- instandhoudingsdoelen voor dit Natura 2000-gebied, die volgen uit de Habitat- en Vogelrichtlijn. In het Aanwijzingsbesluit Duinen Goeree en Kwade Hoek zijn de instandhoudingsdoelen vastgelegd voor de op grond van de Europese Vogel- en Habitatrichtlijnen te beschermen soorten en habitats.</Al>
                      <Al>In het beheerplan voor dit gebied zijn de maatregelen opgenomen om tot een gunstige staat van instandhouding te komen voor de soorten en habitats.</Al>
